@@ -6,6 +6,7 @@
         array[i] = Convert.ToString(Console.ReadLine());
     }
 }
+
 void NewArray(string[] array)
 {
     Console.Write("[");
